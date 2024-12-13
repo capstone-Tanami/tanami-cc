@@ -2,10 +2,8 @@
 
 The backend for Tanami Android Application project.
 
-The Tanami project develops an AI-based application that helps landowners determine suitable crops for their soil and climate conditions. By analyzing variables such as weather, location, and soil type, the app provides personalized recommendations to:
+Cloud Run Deployment Link:
+https://api-tanami-71058517892.asia-southeast2.run.app/
 
-- Optimize land use effectively.
-- Promote awareness about the importance of fiber intake for health.
-- Encourage sustainable agriculture and local food production.
-
-By democratizing access to agricultural knowledge, Tanami empowers users with limited expertise to make informed decisions about their land.
+Swagger documentation:
+https://app.swaggerhub.com/apis-docs/TANAMI/TanamiAPI/1.0.0

@@ -1,0 +1,712 @@
+{
+  "plants": [
+    {
+      "name": "rice",
+      "details": {
+        "description": "Padi (rice) adalah tanaman pangan pokok di Indonesia, menjadi sumber karbohidrat utama.",
+        "care_instructions": {
+          "steps": [
+            "Persiapkan lahan sawah dengan pengolahan tanah basah",
+            "Rendam benih selama 24 jam sebelum disemai",
+            "Tanam bibit pada umur 21-25 hari setelah semai",
+            "Atur ketinggian air sawah 5-7 cm",
+            "Lakukan pemupukan secara bertahap"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Benih padi unggul",
+            "tips": "Pilih varietas sesuai musim dan wilayah",
+            "purchase_link": "https://www.tokopedia.com/search?q=benih+padi+unggul"
+          },
+          {
+            "item": "Pupuk NPK",
+            "tips": "Gunakan pupuk berimbang sesuai fase pertumbuhan",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+npk+padi"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung liat berpasir",
+          "ph": "6.0-7.0",
+          "drainage": "Tergenang air",
+          "organic_content": "Sedang-tinggi"
+        },
+        "additional_tips": [
+          "Jaga kebersihan lahan dari gulma",
+          "Pantau serangan hama dan penyakit secara berkala"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "90-120 hari",
+          "best_planting_season": "Musim hujan",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "mungbean",
+      "details": {
+        "description": "Kacang hijau (mungbean) adalah tanaman polong dengan nilai nutrisi tinggi, kaya protein dan vitamin.",
+        "care_instructions": {
+          "steps": [
+            "Siapkan lahan dengan sinar matahari penuh",
+            "Olah tanah hingga gembur dan rata",
+            "Tanam benih dengan kedalaman 2-3 cm",
+            "Jaga jarak tanam yang optimal",
+            "Berikan pupuk dasar organik"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Benih kacang hijau unggul",
+            "tips": "Pilih varietas lokal yang adaptif",
+            "purchase_link": "https://www.tokopedia.com/search?q=benih+kacang+hijau"
+          },
+          {
+            "item": "Pupuk organik",
+            "tips": "Gunakan pupuk kompos atau pupuk kandang matang",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+organik"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung berpasir",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Sedang"
+        },
+        "additional_tips": [
+          "Hindari genangan air",
+          "Pantau serangan hama penggerek"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "60-75 hari",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "blackgram",
+      "details": {
+        "description": "Kacang hitam (blackgram) adalah tanaman polong dengan kandungan protein dan mineral tinggi.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dengan drainase baik",
+            "Olah tanah sampai gembur",
+            "Tanam benih pada kedalaman 3-4 cm",
+            "Jaga kelembaban tanah",
+            "Berikan pupuk nitrogen ringan"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Benih kacang hitam",
+            "tips": "Pilih varietas lokal yang tahan kering",
+            "purchase_link": "https://www.tokopedia.com/search?q=benih+kacang+hitam"
+          },
+          {
+            "item": "Pupuk nitrogen",
+            "tips": "Gunakan pupuk nitrogen berimbang",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+nitrogen"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung berpasir",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Sedang"
+        },
+        "additional_tips": [
+          "Hindari genangan air",
+          "Perhatikan serangan hama penggerek"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "80-90 hari",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "lentil",
+      "details": {
+        "description": "Lentil adalah tanaman polong dengan kandungan protein dan serat tinggi.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dengan sinar matahari penuh",
+            "Olah tanah ringan",
+            "Tanam benih pada musim dingin atau awal musim semi",
+            "Jaga kelembaban tanah",
+            "Berikan pupuk fosfat ringan"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Benih lentil",
+            "tips": "Pilih varietas sesuai iklim lokal",
+            "purchase_link": "https://www.tokopedia.com/search?q=benih+lentil"
+          },
+          {
+            "item": "Pupuk fosfat",
+            "tips": "Gunakan pupuk dengan kandungan fosfor tinggi",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+fosfat"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung berpasir",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Sedang"
+        },
+        "additional_tips": [
+          "Hindari pengairan berlebih",
+          "Perhatikan serangan penyakit jamur"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "90-120 hari",
+          "best_planting_season": "Musim dingin/awal semi",
+          "optimal_temperature": "10-25°C"
+        }
+      }
+    },
+    {
+      "name": "pomegranate",
+      "details": {
+        "description": "Delima (pomegranate) adalah pohon buah tropis dengan buah kaya antioksidan.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lokasi dengan sinar matahari penuh",
+            "Siapkan tanah dengan drainase baik",
+            "Tanam bibit pada jarak 4-5 meter",
+            "Berikan pupuk kompos secara berkala",
+            "Lakukan pemangkasan rutin"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit delima unggul",
+            "tips": "Pilih varietas lokal yang adaptif",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+delima"
+          },
+          {
+            "item": "Pupuk kompos",
+            "tips": "Gunakan pupuk organik matang",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+kompos"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung berpasir",
+          "ph": "5.5-7.0",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": [
+          "Hindari genangan air",
+          "Berikan penyiraman teratur"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "3-5 tahun",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "20-35°C"
+        }
+      }
+    },
+    {
+      "name": "banana",
+      "details": {
+        "description": "Pisang adalah tanaman buah tropis yang sangat produktif dan bergizi.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dengan drainase baik",
+            "Siapkan lubang tanam dengan ukuran 50x50x50 cm",
+            "Tanam bibit pada musim hujan",
+            "Berikan pupuk organik secara teratur",
+            "Lakukan pemeliharaan berkelanjutan"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit pisang unggul",
+            "tips": "Pilih varietas sesuai kondisi lokal",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+pisang"
+          },
+          {
+            "item": "Pupuk NPK lengkap",
+            "tips": "Gunakan pupuk berimbang untuk pertumbuhan optimal",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+npk+pisang"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung subur",
+          "ph": "5.5-6.5",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": [
+          "Jaga kelembaban tanah",
+          "Hindari area berangin kencang"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "9-12 bulan",
+          "best_planting_season": "Musim hujan",
+          "optimal_temperature": "20-35°C"
+        }
+      }
+    },
+    {
+      "name": "mango",
+      "details": {
+        "description": "Mangga adalah buah tropis populer yang kaya akan vitamin A dan C.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lokasi dengan sinar matahari penuh",
+            "Siapkan tanah dengan drainase baik",
+            "Tanam bibit dengan jarak 10-12 meter",
+            "Berikan pupuk organik secara berkala",
+            "Lakukan pemangkasan rutin"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit mangga unggul",
+            "tips": "Pilih varietas lokal seperti mangga Arumanis atau Gedong",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+mangga+unggul"
+          },
+          {
+            "item": "Pupuk kompos",
+            "tips": "Gunakan pupuk organik matang untuk kesuburan tanah",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+kompos"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung subur",
+          "ph": "5.5-7.5",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": [
+          "Hindari genangan air",
+          "Berikan penyiraman teratur"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "3-5 tahun",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "grapes",
+      "details": {
+        "description": "Anggur adalah tanaman buah merambat yang menghasilkan buah manis dan kaya nutrisi.",
+        "care_instructions": {
+          "steps": [
+            "Siapkan trellis atau support untuk tanaman merambat",
+            "Pilih lokasi dengan sinar matahari penuh",
+            "Olah tanah dengan drainase baik",
+            "Tanam bibit pada jarak 2-3 meter",
+            "Berikan pupuk organik secara berkala"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit anggur",
+            "tips": "Pilih varietas sesuai iklim lokal",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+anggur"
+          },
+          {
+            "item": "Trellis/support tanaman",
+            "tips": "Gunakan kawat atau bambu untuk mendukung pertumbuhan",
+            "purchase_link": "https://www.tokopedia.com/search?q=trellis+tanaman"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung berpasir",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Sedang"
+        },
+        "additional_tips": [
+          "Lakukan pemangkasan rutin",
+          "Hindari kelembaban berlebih"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "2-3 tahun",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "20-30°C"
+        }
+      }
+    },
+    {
+      "name": "watermelon",
+      "details": {
+        "description": "Semangka adalah tanaman buah yang menyegarkan dan kaya akan air.",
+        "care_instructions": {
+          "steps": [
+            "Siapkan lahan dengan sinar matahari penuh",
+            "Olah tanah hingga gembur",
+            "Tanam benih pada musim kemarau",
+            "Jaga jarak tanam yang optimal",
+            "Berikan pupuk organik secara berkala"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Benih semangka unggul",
+            "tips": "Pilih varietas lokal yang produktif",
+            "purchase_link": "https://www.tokopedia.com/search?q=benih+semangka"
+          },
+          {
+            "item": "Pupuk kompos",
+            "tips": "Gunakan pupuk organik untuk kesuburan tanah",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+kompos"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung berpasir",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Sedang"
+        },
+        "additional_tips": [
+          "Berikan mulsa untuk menjaga kelembaban",
+          "Pantau serangan hama"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "70-100 hari",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "muskmelon",
+      "details": {
+        "description": "Melon adalah buah tropis manis dengan aroma khas.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dengan sinar matahari penuh",
+            "Siapkan tanah dengan drainase baik",
+            "Tanam benih pada musim kemarau",
+            "Berikan support/ajir untuk tanaman",
+            "Lakukan pemupukan bertahap"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Benih melon unggul",
+            "tips": "Pilih varietas sesuai kondisi lokal",
+            "purchase_link": "https://www.tokopedia.com/search?q=benih+melon"
+          },
+          {
+            "item": "Ajir/tiang tanaman",
+            "tips": "Gunakan bambu atau kawat untuk mendukung tanaman",
+            "purchase_link": "https://www.tokopedia.com/search?q=ajir+tanaman"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung subur",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": ["Jaga kelembaban tanah", "Hindari genangan air"],
+        "cultivation_duration": {
+          "seed_to_harvest": "60-90 hari",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "apple",
+      "details": {
+        "description": "Apel adalah buah bernilai tinggi yang umumnya tumbuh di daerah pegunungan.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lokasi dengan iklim sejuk",
+            "Siapkan tanah dengan drainase baik",
+            "Tanam bibit pada musim dingin/kemarau",
+            "Berikan pupuk organik secara berkala",
+            "Lakukan pemangkasan rutin"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit apel unggul",
+            "tips": "Pilih varietas sesuai ketinggian dan iklim",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+apel"
+          },
+          {
+            "item": "Pupuk NPK lengkap",
+            "tips": "Gunakan pupuk berimbang untuk pertumbuhan optimal",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+npk"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung berpasir",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": [
+          "Hindari area dengan embun beku",
+          "Berikan perlindungan dari hama"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "3-5 tahun",
+          "best_planting_season": "Musim kemarau/dingin",
+          "optimal_temperature": "15-25°C"
+        }
+      }
+    },
+    {
+      "name": "orange",
+      "details": {
+        "description": "Jeruk adalah buah sitrus yang kaya vitamin C dan populer di Indonesia.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dengan sinar matahari penuh",
+            "Siapkan tanah dengan drainase baik",
+            "Tanam bibit pada musim kemarau",
+            "Berikan pupuk organik secara berkala",
+            "Lakukan pemangkasan rutin"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit jeruk unggul",
+            "tips": "Pilih varietas lokal seperti jeruk Siam atau Keprok",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+jeruk"
+          },
+          {
+            "item": "Pupuk NPK khusus jeruk",
+            "tips": "Gunakan pupuk berimbang untuk pertumbuhan optimal",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+npk+jeruk"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung subur",
+          "ph": "5.5-6.5",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": [
+          "Hindari genangan air",
+          "Berikan perlindungan dari hama"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "3-4 tahun",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "papaya",
+      "details": {
+        "description": "Pepaya adalah tanaman buah tropis yang cepat berbuah dan kaya nutrisi.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dengan sinar matahari penuh",
+            "Siapkan tanah dengan drainase baik",
+            "Tanam bibit pada musim hujan",
+            "Berikan pupuk organik secara berkala",
+            "Lakukan pemangkasan ringan"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit pepaya unggul",
+            "tips": "Pilih varietas lokal seperti pepaya California atau Dampit",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+pepaya"
+          },
+          {
+            "item": "Pupuk kompos",
+            "tips": "Gunakan pupuk organik untuk kesuburan tanah",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+kompos"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung subur",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": [
+          "Hindari area berangin kencang",
+          "Berikan perlindungan dari hama"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "8-12 bulan",
+          "best_planting_season": "Musim hujan",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "coconut",
+      "details": {
+        "description": "Kelapa adalah tanaman serbaguna dengan berbagai manfaat ekonomi dan kuliner.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dekat pantai atau area tropis",
+            "Siapkan lubang tanam yang luas",
+            "Tanam bibit pada musim hujan",
+            "Berikan pupuk organik secara berkala",
+            "Lakukan pemeliharaan berkala"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit kelapa unggul",
+            "tips": "Pilih varietas lokal seperti kelapa Dalam atau Genjah",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+kelapa"
+          },
+          {
+            "item": "Pupuk NPK lengkap",
+            "tips": "Gunakan pupuk berimbang untuk pertumbuhan optimal",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+npk+kelapa"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Pasir berlempung",
+          "ph": "5.5-7.0",
+          "drainage": "Baik",
+          "organic_content": "Sedang"
+        },
+        "additional_tips": [
+          "Jaga kelembaban area sekitar pohon",
+          "Berikan perlindungan dari angin kencang"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "5-7 tahun",
+          "best_planting_season": "Musim hujan",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "cotton",
+      "details": {
+        "description": "Kapas adalah tanaman serat penting dalam industri tekstil.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dengan sinar matahari penuh",
+            "Olah tanah hingga gembur",
+            "Tanam benih pada musim kemarau",
+            "Berikan pupuk nitrogen",
+            "Lakukan pengendalian hama secara berkala"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Benih kapas unggul",
+            "tips": "Pilih varietas sesuai kondisi lokal",
+            "purchase_link": "https://www.tokopedia.com/search?q=benih+kapas"
+          },
+          {
+            "item": "Pupuk nitrogen",
+            "tips": "Gunakan pupuk nitrogen untuk pertumbuhan optimal",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+nitrogen"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung berpasir",
+          "ph": "6.0-7.0",
+          "drainage": "Baik",
+          "organic_content": "Sedang"
+        },
+        "additional_tips": [
+          "Hindari genangan air",
+          "Pantau serangan hama penggerek"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "150-180 hari",
+          "best_planting_season": "Musim kemarau",
+          "optimal_temperature": "20-35°C"
+        }
+      }
+    },
+    {
+      "name": "jute",
+      "details": {
+        "description": "Goni (jute) adalah tanaman serat alamiah yang penting dalam industri.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan dengan kelembaban tinggi",
+            "Olah tanah dengan baik",
+            "Tanam benih pada musim hujan",
+            "Berikan pupuk nitrogen",
+            "Lakukan penyiangan berkala"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Benih goni unggul",
+            "tips": "Pilih varietas lokal yang adaptif",
+            "purchase_link": "https://www.tokopedia.com/search?q=benih+goni"
+          },
+          {
+            "item": "Pupuk nitrogen",
+            "tips": "Gunakan pupuk nitrogen untuk pertumbuhan optimal",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+nitrogen"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung subur",
+          "ph": "5.5-6.5",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": ["Jaga kelembaban tanah", "Hindari kekeringan"],
+        "cultivation_duration": {
+          "seed_to_harvest": "120-150 hari",
+          "best_planting_season": "Musim hujan",
+          "optimal_temperature": "25-35°C"
+        }
+      }
+    },
+    {
+      "name": "coffee",
+      "details": {
+        "description": "Kopi adalah tanaman perkebunan penting dengan nilai ekonomi tinggi.",
+        "care_instructions": {
+          "steps": [
+            "Pilih lahan di dataran tinggi",
+            "Siapkan tanah dengan drainase baik",
+            "Tanam bibit pada musim hujan",
+            "Berikan naungan parsial",
+            "Lakukan pemangkasan rutin"
+          ]
+        },
+        "shopping_list": [
+          {
+            "item": "Bibit kopi unggul",
+            "tips": "Pilih varietas seperti Arabika atau Robusta",
+            "purchase_link": "https://www.tokopedia.com/search?q=bibit+kopi"
+          },
+          {
+            "item": "Pupuk NPK khusus kopi",
+            "tips": "Gunakan pupuk berimbang untuk pertumbuhan optimal",
+            "purchase_link": "https://www.tokopedia.com/search?q=pupuk+npk+kopi"
+          }
+        ],
+        "recommended_soil": {
+          "type": "Lempung vulkanis",
+          "ph": "5.5-6.5",
+          "drainage": "Baik",
+          "organic_content": "Tinggi"
+        },
+        "additional_tips": [
+          "Hindari sinar matahari langsung",
+          "Berikan perlindungan dari angin kencang"
+        ],
+        "cultivation_duration": {
+          "seed_to_harvest": "3-4 tahun",
+          "best_planting_season": "Musim hujan",
+          "optimal_temperature": "15-25°C"
+        }
+      }
+    }
+  ]
+}

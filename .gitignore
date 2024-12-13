@@ -1,0 +1,4 @@
+node_modules/
+Cloud Computing/backend/.env
+Cloud Computing/backend/serviceAccount.json
+Cloud Computing/backend/package-lock.json
